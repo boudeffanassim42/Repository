@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd exel
+import pandas as pd
 
 # إعدادات صفحة التطبيق (لكي تظهر بشكل احترافي على الهاتف والكمبيوتر)
 st.set_page_config(
